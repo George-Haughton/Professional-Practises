@@ -44,9 +44,9 @@ CPD stands for Continuing Professional Development, this means to deliberately m
 
 |Performance Objective/Goal|Required skills|year|
 |----------|------------------------------------------------------------------------------------------------|--------------|
-| 1 |I would like to play the game within a browser, as i would be able to access it very easily.|1|
-| 2 |I would like to be know when the NPC has collided with my square so i know i have lsot a life.|2|
-| 3 |I would like to see the NPC chase me while i am playing, as this would give me a sense competitiveness.|3|
+|By the end of this year i would like to have completed my first year with at least a Merit grade|The skills that I will require to achieve this goal will be determintaion to push my self when it gets hard and good time management skills, to manage my time of work and time of leisure |1|
+|By the end of my second year i would like to have improved from the first by finishing with a distinction grade.|The skills needed will be determination to keep pushing myself and time management to manage my time correctly, but also i will need to have improved my grammer, spelling and my overall work quality. |2|
+|Once i have finished college i would like to find a job within the gaming industry|The skills i will need to achieve this with be professionalism to make sure my work is at an exceptional standard, determination to not give up on chasing my dream of working within this industry and my developer skills as a whole.|3|
 | 4 |I would like to when the NPC has collided with me 3 times so i knjow that i have lost and the game is over.|4|
 | 5 |I would like my square to follow my mouse movements so i can guide and control it.|5|
 
