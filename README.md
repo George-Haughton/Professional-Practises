@@ -41,3 +41,32 @@ As you can see from the chart we had outlined all the dates we wanted to be fini
 CPD stands for Continuing Professional Development, this means to deliberately maintain or develop skills and/or knowledge of a hobby, job, professional standard and anything that leads to you improving skills and/or knowledge. A good business will always be evolving and improving and CPD is a huge part of that. Take a doctor as an example; 10 years ago medicines, techniques, equipment and medical training would be drastically different to what they are now and for a doctor to be the best doctor they possibly can they're going to need to maintain, improve or develop their skills and/or knowledge. CPD is imporant when it comes to self learning for a couple reasons. One of them reasons being it gives employees a clear path to success within their profession. If they are constantly using CPD to get better they are going to succeed a lot more in that job role than someone who does not want to improve on their skills or knowledge. Leading off of this CPD can increase ones confidence. If someone is getting better at whatever they are doing, there mood, health and self loving/confidence is going to see a dramatic change for the better; as they are going to be improving themselves as a whole. Additionally, there are many ways one can actively improve these come in the form of online tutorials where users can improve at their own pace, or if thats at a work shop at their place of work improving and maintainign together.
 
 
+
+|Performance Objective/Goal|Required skills|year|
+|----------|------------------------------------------------------------------------------------------------|--------------|
+| 1 |I would like to play the game within a browser, as i would be able to access it very easily.|1|
+| 2 |I would like to be know when the NPC has collided with my square so i know i have lsot a life.|2|
+| 3 |I would like to see the NPC chase me while i am playing, as this would give me a sense competitiveness.|3|
+| 4 |I would like to when the NPC has collided with me 3 times so i knjow that i have lost and the game is over.|4|
+| 5 |I would like my square to follow my mouse movements so i can guide and control it.|5|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
