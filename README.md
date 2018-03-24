@@ -31,7 +31,7 @@ To answer this I am going to speak about my team within our ZSL project. ZSL app
 
 Aims and Objectives:
 
-Our aims of the project were to create a fun, educational, interactive game that also made the children think about global wamring and what they can do in their day to day lives to help reduce this global threat. Again we are going to take a look at the Gantt chart we made for this project to identify the objectives we set out to achieve from the beginning. 
+Our aims of the project were to create a fun, educational, interactive game that also made the children think about global warming and what they can do in their day to day lives to help reduce this global threat. Again we are going to take a look at the Gantt chart we made for this project to identify the objectives we set out to achieve from the beginning. 
 
 ![](https://gyazo.com/4387ac84cc3c6065d0e073f7910b5f85.png)
 
