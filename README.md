@@ -42,6 +42,8 @@ CPD stands for Continuing Professional Development, this means to deliberately m
 
 ## Development plan
 
+This table represents my goals i hope to have completed each year, for the duration of 5 years; it also includes the skills i will need to achieve these goals:
+
 |Performance Objective/Goal|Required skills|year|
 |----------|------------------------------------------------------------------------------------------------|--------------|
 |By the end of this year i would like to have completed my first year with at least a Merit grade|The skills that I will require to achieve this goal will be determintaion to push my self when it gets hard and good time management skills, to manage my time of work and time of leisure |1|
@@ -49,24 +51,3 @@ CPD stands for Continuing Professional Development, this means to deliberately m
 |Once i have finished college i would like to find a job within the gaming industry|The skills i will need to achieve this with be professionalism to make sure my work is at an exceptional standard, determination to not give up on chasing my dream of working within this industry and my developer skills as a whole. Also I will need to make sure i pass my college course with the grades i hoped for to make sure i am qualified to secure a job.|3|
 |By the fourth year i hope to be in a secure position within a job within the gaming industry.|The skills needed to achieve this are determination, excellent I.T skills, excellent developer/coding skills and finally an excellent work ethic.|4|
 |By year 5 i would like to be in a position where i have successfully gotten the job i wanted and be on my way up the ladder of more senior jobs|The skills i would need would be incredible I.T, designing and developer skills and a huge amount of experience in terms of the gaming industry.|5|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
